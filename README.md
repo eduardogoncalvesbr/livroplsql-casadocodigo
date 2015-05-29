@@ -4,6 +4,9 @@ Oracle PLSQL
 
 Olá, galera!!! Tudo bom? Fico muito feliz por você ter despendido um tempo para ler meu livro e o mais bacana, se você chegou até aqui, é sinal que ficou interessado em ver como tal da PLSQL funciona e deseja testar os conhecimentos adquiridos. Fique a vontade, abaixo, te explico como montar a base para testar os PLSQLs do livro e também utilizá-los em suas práticas. Conte comigo para qualquer coisa. Forte abraço e aproveite o material.
 
+Se você chegou aqui por acaso e ainda não conhece o livro, compre pela Casa do Código!!! Não perca tempo!!!!
+http://www.casadocodigo.com.br/products/livro-sql-oracle
+
 Qualquer coisa me contate pelo email: eduardogoncalves.br@gmail.com
 
 Vamos lá…
