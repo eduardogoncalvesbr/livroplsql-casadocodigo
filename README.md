@@ -7,6 +7,10 @@ Olá, galera!!! Tudo bom? Fico muito feliz por você ter despendido um tempo par
 Se você chegou aqui por acaso e ainda não conhece o livro, compre pela Casa do Código em breve!!! Não perca tempo!!!!
 http://www.casadocodigo.com.br/
 
+Adquira também meu outro livro e vire expert no assunto!!!
+SQL: Uma abordagem para bancos de dados Oracle
+http://www.casadocodigo.com.br/products/livro-sql-oracle
+
 Qualquer coisa me contate pelo email: eduardogoncalves.br@gmail.com
 
 Vamos lá…
